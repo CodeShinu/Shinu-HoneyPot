@@ -3,8 +3,8 @@
 ⚠️ Aviso Legal: Uso exclusivo para defesa própria contra golpistas da OLX ou outros. Proibido para fins ilegais ou contra inocentes.
 
 📦 Instalação:
-git clone https://github.com/CodeShinu/Shinu-Tracker---HoneyPot-Web.git
-cd Shinu-Tracker---HoneyPot-Web
+git clone https://github.com/CodeShinu/Shinu-HoneyPot.git
+cd Shinu-HoneyPot
 pip install flask flask-limiter requests user-agents colorama
 
 🚀 Início rápido (inicie em CMD diferentes):
